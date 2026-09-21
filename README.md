@@ -10,7 +10,6 @@
 
 [![Organization](https://img.shields.io/badge/@MANSORYHUB-E10600?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MANSORYHUB)
 [![Website](https://img.shields.io/badge/mansoryhub.com-000000?style=for-the-badge&logoColor=white)](https://mansoryhub.com)
-[![Demo](https://img.shields.io/badge/Live_Demo-1C1C1C?style=for-the-badge&logoColor=white)](https://marketplace.1billion.io/)
 
 </div>
 
@@ -49,19 +48,25 @@ The hard part isn't the listings. It's trust. So the platform is built around it
 | 🏢 **Organization** | [@MANSORYHUB](https://github.com/MANSORYHUB) |
 | 🌍 **Based in** | Dubai, United Arab Emirates |
 | 🌐 **Product** | [mansoryhub.com](https://mansoryhub.com) |
-| 🧪 **Demo** | [marketplace.1billion.io](https://marketplace.1billion.io/) |
 | 💬 **Ask me about** | marketplaces · iOS · platform architecture |
 
 <br/>
 
-## 📊 GitHub
+## 🎯 Focus areas
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=MANSORYHUB-Dev&show_icons=true&hide_border=true&title_color=E10600&icon_color=E10600&text_color=8B949E&bg_color=0D1117" alt="stats" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MANSORYHUB-Dev&layout=compact&hide_border=true&title_color=E10600&text_color=8B949E&bg_color=0D1117" alt="languages" />
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Web](https://img.shields.io/badge/Web_Platform-E10600?style=for-the-badge&logoColor=white)
+![Marketplace](https://img.shields.io/badge/Marketplace_Systems-1C1C1C?style=for-the-badge&logoColor=white)
+![Dubai](https://img.shields.io/badge/Dubai_·_UAE-2D2D2D?style=for-the-badge&logoColor=white)
 
 </div>
+
+<br/>
+
+> Most of my work lives in private repositories.
+> The product is the portfolio — see it live at [**mansoryhub.com**](https://mansoryhub.com).
 
 <br/>
 
@@ -69,6 +74,6 @@ The hard part isn't the listings. It's trust. So the platform is built around it
 
 <div align="center">
 
-<sub>Most of my work lives in private repos at [**@MANSORYHUB**](https://github.com/MANSORYHUB)</sub>
+<sub>**MANSORY HUB** · Dubai, UAE · [mansoryhub.com](https://mansoryhub.com)</sub>
 
 </div>
